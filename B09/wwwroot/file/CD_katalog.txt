@@ -1,0 +1,9 @@
+﻿Sting|Brand New Day|pop rock|1999|A&M|\Slike\bnd.jpg
+The Beatles|Help!|pop rock|1965|EMI|\Slike\help.jpg
+Paradise Lost|Draconian Times|gothic|1999|Relativity|\Slike\dt.jpg
+Metallica|Load|heavy|1996|Elektra|\Slike\load.jpg
+Metallica|Reoad|heavy|1997|Elektra|\Slike\reload.jpg
+Metallica|Master of Puppets| thrash|1986|Elektra|\Slike\mop.jpg
+Nightwish|Bless the Child|symphonic|2002|Spinefarm|\Slike\btc.jpg
+Nightwish|Dark Passion Play|symphonic|2007|Spinefarm|\Slike\dpp.jpg
+Within Temptation|Mother Earth|symphonic|2000|DSFA|\Slike\mo.jpg

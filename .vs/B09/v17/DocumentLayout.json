@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Milinkovic\\Desktop\\B09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{774B5EB6-A911-4567-BF27-688B95D4B729}|B09\\B09.csproj|c:\\users\\milinkovic\\desktop\\b09\\b09\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{774B5EB6-A911-4567-BF27-688B95D4B729}|B09\\B09.csproj|solutionrelative:b09\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774B5EB6-A911-4567-BF27-688B95D4B729}|B09\\B09.csproj|c:\\users\\milinkovic\\desktop\\b09\\b09\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{774B5EB6-A911-4567-BF27-688B95D4B729}|B09\\B09.csproj|solutionrelative:b09\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774B5EB6-A911-4567-BF27-688B95D4B729}|B09\\B09.csproj|c:\\users\\milinkovic\\desktop\\b09\\b09\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{774B5EB6-A911-4567-BF27-688B95D4B729}|B09\\B09.csproj|solutionrelative:b09\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774B5EB6-A911-4567-BF27-688B95D4B729}|B09\\B09.csproj|c:\\users\\milinkovic\\desktop\\b09\\b09\\albumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774B5EB6-A911-4567-BF27-688B95D4B729}|B09\\B09.csproj|solutionrelative:b09\\albumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774B5EB6-A911-4567-BF27-688B95D4B729}|B09\\B09.csproj|c:\\users\\milinkovic\\desktop\\b09\\b09\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774B5EB6-A911-4567-BF27-688B95D4B729}|B09\\B09.csproj|solutionrelative:b09\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Milinkovic\\Desktop\\B09\\B09\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "B09\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Milinkovic\\Desktop\\B09\\B09\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "B09\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-04T08:28:20.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Milinkovic\\Desktop\\B09\\B09\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "B09\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Milinkovic\\Desktop\\B09\\B09\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "B09\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T08:25:39.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Milinkovic\\Desktop\\B09\\B09\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "B09\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Milinkovic\\Desktop\\B09\\B09\\Pages\\Index.cshtml",
+              "RelativeToolTip": "B09\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T18:54:01.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Milinkovic\\Desktop\\B09\\B09\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "B09\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Milinkovic\\Desktop\\B09\\B09\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "B09\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwGAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:13:16.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlbumService.cs",
+              "DocumentMoniker": "C:\\Users\\Milinkovic\\Desktop\\B09\\B09\\AlbumService.cs",
+              "RelativeDocumentMoniker": "B09\\AlbumService.cs",
+              "ToolTip": "C:\\Users\\Milinkovic\\Desktop\\B09\\B09\\AlbumService.cs",
+              "RelativeToolTip": "B09\\AlbumService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:23:42.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 436,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

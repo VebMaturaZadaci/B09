@@ -1,0 +1,61 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form method="post">
+    <div class="unos">
+        <label asp-for="izvodjac">Izvodjac:</label>
+        <input type="text" asp-for="izvodjac"/>
+    </div>
+    <div class="unos">
+        <label asp-for="nazivAlbuma">Naziv albuma:</label>
+        <input type="text" asp-for="nazivAlbuma" />
+    </div>
+    <div class="unos">
+        <label asp-for="zanr">Zanr:</label>
+        <select data-val="true" asp-for="zanr" asp-items="Model.Zanri">
+            <option value="">Izaberi</option>
+        </select>
+    </div>
+    <div class="unos">
+        <label asp-for="godina">Godine:</label>
+        <select data-val="true" asp-for="godina" asp-items="Model.Godine">
+            <option value="">Izaberi</option>
+        </select>
+    </div>
+    <div class="unos">
+        <label asp-for="kuca">Izdavacka kuca:</label>
+        <input type="text" asp-for="kuca" />
+    </div>
+    <button type="submit">Pretrazi</button>
+</form>
+
+<br />
+
+@if(Model.Pretraga.Count != 0)
+{
+    <table>
+        <tr>
+            <th>Izvodjac</th>
+            <th>Naziv albuma</th>
+            <th>Zanr</th>
+            <th>Godina</th>
+            <th>Izdavacka kuca</th>
+            <th>Slika omota</th>
+        </tr>
+        @foreach (var item in Model.Pretraga)
+        {
+            <tr>
+                <td>@item.Izvodjac</td>
+                <td>@item.NazivAlbuma</td>
+                <td>@item.Zanr</td>
+                <td>@item.Godina</td>
+                <td>@item.Kuca</td>
+                <td><img src="@item.Slika" /></td>
+            </tr>
+        }
+    </table>
+}
+

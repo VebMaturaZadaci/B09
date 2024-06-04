@@ -1,0 +1,50 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.naslov {
+    width: 100%;
+    height: 60px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: #49699c;
+    color: white;
+}
+.navigacija {
+    width: 100%;
+    height: 30px;
+    background-color: #394e63;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+.dugme {
+    display: inline-block;
+    float: left;
+    height: 20px;
+    margin-top: 5px;
+    background-color: #465b70;
+    color: white;
+    margin-right: 2px;
+    padding: 2px;
+    padding-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+}
